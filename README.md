@@ -1,3 +1,5 @@
+the JAR stuff is present in lib folder, if not follow these steps:
+
 Step1: u need to download these JAR files before running .
 run these on powershell:
 
